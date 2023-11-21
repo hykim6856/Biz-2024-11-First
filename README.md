@@ -1,4 +1,5 @@
 # 나의 첫 프로젝트
+- Repository 정보등록
 - 원격 Repository 생성
 - Repository 정보 등록
 - 로컬 폴더(test1)에 README.md 파일 생성
@@ -7,8 +8,9 @@
 - 원격 Repository 에 push 하기
 
 ## Repository 정보 등록
-- username 등록 : **git config --global user.name hykim6856
-
+- 컴퓨터 포맷 했을때 최소 한 번만
+- username 등록 : **git config --global user.name hykim6856**
+- email 등록 : **git config --global user.email hykim6856@gmail.com**
 
 ## 로컬 Repository 생성하기
 - **bash shell** 에서 **git init** 명령 실행하기
@@ -18,4 +20,4 @@
 
 ## 원격 Repository 에 push 하기
 - 로컬 폴더의 파일, 폴더 들을 로컬 Repository에 압축하여 저장하기 **git add README.md**
-- 왜 push를 하는지 comment 부착하기 : ** git 
+- 왜 push를 하는지 comment 부착하기 : ** git init** 명령 실행하기 : **.git** 폴더가 생성된다
